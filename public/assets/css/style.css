@@ -12847,7 +12847,7 @@ textarea.form-control-lg {
     height: 26.25rem; }
   @media (min-width: 992px) {
     .slideshow {
-      height: 50rem; }
+      height: 41rem; }
       .slideshow.type2 {
         height: 56rem; }
       .slideshow.type3 {
@@ -12876,10 +12876,10 @@ textarea.form-control-lg {
   height: 100%; }
 
 .slideshow-character__img {
-  max-height: 555px; }
+  max-height: 550px; }
   @media (min-width: 992px) {
     .slideshow-character__img {
-      max-height: 733px; } }
+      max-height: 550px; } }
   .slideshow_small .slideshow-character__img {
     max-height: 20rem; }
     @media (min-width: 992px) {
